@@ -1,6 +1,6 @@
 👋 Hi, I'm Milad Zarour!
 
-I'm a 30-year-old software developer who's passionate about creating and innovating. Originally hailing from Homs, Syria, I currently reside in Gothenburg, Sweden but have my sights set on new horizons in Dubai.
+I'm a 30-year-old software developer who's passionate about creating and innovating. Originally hailing from Homs, Syria, I currently reside in Gothenburg, Sweden
 
 🧩 My Journey:
 My love for coding has shaped my career path. From working with the esp32 chip to developing web applications, I constantly explore new projects. You can catch glimpses of my creativity on my YouTube channel and even hear me playing the keyboard!
