@@ -1,39 +1,90 @@
-👋 Hi, I'm Milad Zarour!
+# 👋 Hi, I'm Milad Zarour
 
-I'm a 30-year-old software developer who's passionate about creating and innovating. Originally hailing from Homs, Syria, I currently reside in Gothenburg, Sweden
+**Senior HIL Engineer | Test Lead | DevOps-Oriented Test Developer | Automation Engineer**
 
-🧩 My Journey:
-My love for coding has shaped my career path. From working with the esp32 chip to developing web applications, I constantly explore new projects. You can catch glimpses of my creativity on my YouTube channel and even hear me playing the keyboard!
+I'm based in Gothenburg, Sweden, and I work at the intersection of **automotive testing, HIL systems, automation, CI/CD, and software development**.
 
-📱 Flutter Development:
-I have a rich history in Flutter, deploying projects across Android, iOS, and Windows platforms. My GitHub repository stands as a testament to my commitment to quality and innovation.
+I enjoy building practical tools that solve real engineering problems — from automotive test automation to AI-powered desktop applications.
 
-💼 Professional Experience:
-My role as a Software Developer in Test at Volvo Cars honed my skills in working both independently and within a team. I value efficiency and determination in tackling challenges.
+---
 
-🧠 Skills and Expertise:
+## 🚗 What I Do
 
-C Programming
-Continuous Integration
-Python
-Embedded Systems
-HTML, CSS, Bootstrap, Nodejs, Web3
-Full-Stack Web Development
-Object-Oriented Programming (OOP)
-Networking, Data Storage, State Management
-Firebase Cloud Firestore
-📚 Continued Learning:
-I've further enhanced my skills with training in Flutter Development using Dart language and have a profound understanding of essential programming concepts.
+- HIL testing for automotive systems and ECUs
+- VCU component testing and domain-level validation
+- Test automation using Python, Robot Framework, CAPL, TPT and vTESTstudio
+- CANoe / CANalyzer simulation, logging and diagnostics
+- CI/CD workflows with Jenkins, GitLab and Gerrit
+- Fault tracing, log analysis and root-cause investigation
+- Internal tooling to speed up engineering workflows
 
-🎯 My Approach:
-I see myself as solution-oriented, always looking for creative and efficient solutions, whether in my personal or professional life.
+---
 
-📈 Future Aspirations:
-I'm excited about the opportunity to discuss my move to Dubai and my continued work with Flutter. I believe my unique blend of technical acumen, creativity, and drive makes me a valuable asset to any forward-thinking organization.
+## 🧠 Main Tech Stack
 
-Feel free to reach out to me here or connect with me on LinkedIn.
+**Automotive & Testing**  
+CANoe · CANalyzer · vTESTstudio · TPT · SystemWeaver · CarWeaver · HIL · CAN · Diagnostics
 
-<!---
-MiladZarour/MiladZarour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Automation & DevOps**  
+Python · Robot Framework · Jenkins · GitLab · Gerrit · Bash · PowerShell · Linux · Windows · WSL
+
+**Software Development**  
+C++ · CAPL · JavaScript · TypeScript · React · Node.js · Electron · Flutter · Dart · Firebase
+
+**AI & Tools**  
+Local LLMs · Offline AI inference · node-llama-cpp · GGUF models · OpenAI API
+
+---
+
+## 🧩 Featured Projects
+
+### 🖥️ TermiGPT
+AI-powered terminal application with local/offline inference.
+
+- Built with Electron, React, TypeScript and Node.js
+- Supports local LLMs such as Qwen, Phi and Gemma
+- Multi-terminal support: PowerShell, CMD, WSL and Git Bash
+- GPU detection with CPU fallback
+- Windows/Linux build and release automation
+
+🌐 Website: https://www.termigpt.tech
+
+---
+
+### 📄 Personal Letter Generator
+Cross-platform app that generates tailored cover letters using AI.
+
+- Built with Flutter and Dart
+- Integrated OpenAI API
+- Backend hosted on Linux VM
+- Migrated backend to Firebase Firestore
+- Managed project planning, budget, team coordination and delivery
+
+---
+
+## 💼 Professional Focus
+
+Currently, I focus on automotive HIL engineering and test leadership, including:
+
+- VCU component testing
+- Test case design and execution
+- Automated validation
+- Nightly HIL run monitoring
+- Signal analysis and fault tracing
+- Mentoring and onboarding new team members
+
+---
+
+## 🌍 Languages
+
+- Arabic: Native
+- English: Professional
+- Swedish: Fluent
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/milad-zarour-126767a1
+- GitHub: https://github.com/MiladZarour
+- Email: miladzarour@hotmail.com
