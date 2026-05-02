@@ -40,9 +40,30 @@ Location: Gothenburg, Sweden 🇸🇪
 
 <div align="center">
 
-<a href="https://www.termigpt.tech/">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J0b2s0bGZkczY4dG5jb2N2Z2ZrZ3d6Z3g2bHk5cHh6eW5pZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
-</a>
+<table>
+<tr>
+<td>
+
+```powershell
+PS C:\Users\Milad> Describe your task...
+
+> Set up a Python venv and install Flask
+
+TermiGPT Agent Plan:
+1. python -m venv .venv
+2. .venv\Scripts\activate
+3. pip install flask requests
+4. python -c "import flask; print(flask.__version__)"
+
+Status:
+✅ Virtual environment created
+✅ Packages installed
+✅ Command completed
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
