@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=25" />
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=00f7ff&style=for-the-badge)
 
-[![API Status](https://img.shields.io/website?label=WaitTime%20API&style=for-the-badge&url=https://api.termigpt.tech/waittime/)](https://api.termigpt.tech/waittime/)
-[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows)](https://www.termigpt.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![API Status](https://img.shields.io/website?label=WaitTime%20API&style=for-the-badge&url=https://api.termigpt.tech/waittime/health)](https://api.termigpt.tech/waittime/)
+[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
 
 </div>
 
@@ -36,7 +36,7 @@ Location: Gothenburg, Sweden 🇸🇪
 
 # 🧩 🚀 FEATURED PRODUCTS
 
-## 🖥️ TermiGPT (Flagship Product)
+## 🖥️ TermiGPT — Flagship Product
 
 <div align="center">
 
@@ -50,9 +50,9 @@ Location: Gothenburg, Sweden 🇸🇪
 
 * 🧠 Runs 100% **offline**
 * 🤖 AI generates **real shell commands**
-* 🔥 **Agent Mode** → executes + fixes automatically
-* 🛠️ Supports PowerShell, CMD, WSL, Git Bash
-* 🎯 GPU accelerated (fallback to CPU)
+* 🔥 **Agent Mode** executes and fixes automatically
+* 🛠️ Supports PowerShell, CMD, WSL, and Git Bash
+* 🎯 GPU accelerated with CPU fallback
 * 🔐 Zero cloud, zero data leaks
 
 ---
@@ -65,7 +65,7 @@ python -m venv .venv
 pip install flask requests
 ```
 
-💥 If error → **auto-fix + continue execution**
+💥 If something breaks → **auto-fix + continue execution**
 
 ---
 
@@ -74,26 +74,28 @@ pip install flask requests
 <div align="center">
 
 <a href="https://api.termigpt.tech/waittime/">
-<img src="https://img.shields.io/badge/OPEN%20API-DOCS-00F7FF?style=for-the-badge&logo=swagger"/>
+<img src="https://img.shields.io/badge/OPEN%20API-DOCS-00F7FF?style=for-the-badge&logo=swagger&logoColor=white"/>
 </a>
 
 </div>
 
-### ⚡ Turn Crowd Data → Decisions
+### ⚡ Turn Crowd Data Into Decisions
 
 * ⏱️ Wait-time prediction
 * 📊 Busy-time forecasting
 * 📍 Smart nearby alternatives
 * 📈 Confidence + reasoning
+* 🔐 Bearer API key authentication
+* 💳 Free, Starter, Pro, and Business tiers
 
 ---
 
-### 🔑 Example
+### 🔑 Example API Call
 
 ```bash
 curl -X POST https://api.termigpt.tech/waittime/v1/register \
--H "Content-Type: application/json" \
--d "{\"email\":\"customer@example.com\",\"name\":\"Example\",\"company\":\"AB\"}"
+  -H "Content-Type: application/json" \
+  -d "{\"email\":\"customer@example.com\",\"name\":\"Example\",\"company\":\"AB\"}"
 ```
 
 ---
@@ -132,6 +134,12 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 </div>
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladZarour&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 # 🐍 CONTRIBUTION MATRIX
@@ -144,15 +152,23 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 ---
 
-# 🧪 FUTURE (COMING SOON)
+# 🧪 FUTURE — COMING SOON
 
 ```txt
 ✔ AI-powered DevOps assistant
 ✔ Autonomous testing pipelines
 ✔ Smart CI/CD debugger
 ✔ Real-time system analytics API
-✔ Marketplace for developer tools (PixCrate)
+✔ Marketplace for developer tools — PixCrate
 ```
+
+---
+
+# 🌍 LANGUAGES
+
+* Arabic 🇸🇾 Native
+* English 🇬🇧 Professional
+* Swedish 🇸🇪 Fluent
 
 ---
 
@@ -160,8 +176,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin)]
+[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miladzarour@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiladZarour)
 
 </div>
 
