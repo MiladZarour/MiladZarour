@@ -1,66 +1,119 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=900&pause=500&color=00BFFF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps-Oriented+Automation+Engineer;Automotive+CI%2FCD+%7C+Python+%7C+CANoe+%7C+vTESTstudio;Building+TermiGPT+%E2%9A%A1+Local+AI+Terminal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=header&text=Milad%20Zarour&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladZarour)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladzarour@hotmail.com)
-[![Website](https://img.shields.io/badge/TermiGPT-Website-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.termigpt.tech)
+![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=00f7ff&style=for-the-badge)
+
+[![API Status](https://img.shields.io/website?label=WaitTime%20API&style=for-the-badge&url=https://api.termigpt.tech/waittime/)](https://api.termigpt.tech/waittime/)
+[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows)](https://www.termigpt.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/milad-zarour-126767a1)
 
 </div>
 
 ---
 
-# 👋 About Me
-
-I’m **Milad Zarour**, a **Senior HIL Engineer**, **Test Lead**, and **DevOps-Oriented Automation Engineer** based in **Gothenburg, Sweden**.
-
-I work at the intersection of:
-
-- 🚗 Automotive HIL Testing  
-- ⚙️ Test Automation  
-- 🧪 VCU Component Validation  
-- 🔁 CI/CD Pipelines  
-- 🧠 Local AI Tooling  
-- 🛠️ Full-Stack and Desktop Application Development  
-
-I enjoy building real tools that solve real engineering problems.
-
----
-
-## 🚀 What I Do
+# 👨‍💻 WHO AM I
 
 ```txt
-Automotive Testing     ████████████████████  95%
-Test Automation        ███████████████████   90%
-Python Development     ███████████████████   90%
-CI/CD Engineering      ██████████████████    85%
-Local AI Tooling       █████████████████     80%
-Full-Stack Apps        ████████████████      75%
+Senior HIL Engineer | Test Lead | DevOps Engineer
+Automotive Systems + AI Products Builder
+Location: Gothenburg, Sweden 🇸🇪
 ````
 
-* HIL testing for automotive systems and ECUs
-* VCU component and domain-level testing
-* Test case design in SystemWeaver / CarWeaver
-* Test automation using Python, Robot Framework, CAPL, TPT and vTESTstudio
-* CANoe / CANalyzer simulation, logging and diagnostics
-* CI/CD workflows using Jenkins, GitLab and Gerrit
-* Fault tracing, signal analysis and root-cause investigation
-* Internal tools that speed up engineering workflows
+💡 I build **real-world systems, APIs, and AI tools** — not just demos.
 
 ---
 
-## 🧠 Tech Stack
+# 🧩 🚀 FEATURED PRODUCTS
+
+## 🖥️ TermiGPT (Flagship Product)
+
+<div align="center">
+
+<a href="https://www.termigpt.tech/">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J0b2s0bGZkczY4dG5jb2N2Z2ZrZ3d6Z3g2bHk5cHh6eW5pZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+</a>
+
+</div>
+
+### ⚡ Your Terminal. Your AI. No Cloud.
+
+* 🧠 Runs 100% **offline**
+* 🤖 AI generates **real shell commands**
+* 🔥 **Agent Mode** → executes + fixes automatically
+* 🛠️ Supports PowerShell, CMD, WSL, Git Bash
+* 🎯 GPU accelerated (fallback to CPU)
+* 🔐 Zero cloud, zero data leaks
+
+---
+
+### 🧪 Real Workflow
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install flask requests
+```
+
+💥 If error → **auto-fix + continue execution**
+
+---
+
+## 🚀 WaitTime Intelligence API
+
+<div align="center">
+
+<a href="https://api.termigpt.tech/waittime/">
+<img src="https://img.shields.io/badge/OPEN%20API-DOCS-00F7FF?style=for-the-badge&logo=swagger"/>
+</a>
+
+</div>
+
+### ⚡ Turn Crowd Data → Decisions
+
+* ⏱️ Wait-time prediction
+* 📊 Busy-time forecasting
+* 📍 Smart nearby alternatives
+* 📈 Confidence + reasoning
+
+---
+
+### 🔑 Example
+
+```bash
+curl -X POST https://api.termigpt.tech/waittime/v1/register \
+-H "Content-Type: application/json" \
+-d "{\"email\":\"customer@example.com\",\"name\":\"Example\",\"company\":\"AB\"}"
+```
+
+---
+
+# 🎮 ⚡ LIVE DEMO CARDS
+
+<div align="center">
+
+| 🚀 Product      | 🔗 Link                                             | 💡 Description     |
+| --------------- | --------------------------------------------------- | ------------------ |
+| 🖥️ TermiGPT    | [Open](https://www.termigpt.tech/)                  | Local AI Terminal  |
+| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/)         | Predict wait times |
+| 📘 API Docs     | [Swagger](https://api.termigpt.tech/waittime/docs)  | Interactive API    |
+| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system        |
+
+</div>
+
+---
+
+# 🧠 TECH STACK
 
 <div align="center">
 
@@ -68,120 +121,47 @@ Full-Stack Apps        ████████████████      75%
 
 </div>
 
-### 🚗 Automotive & Testing
-
-`CANoe` · `CANalyzer` · `vTESTstudio` · `TPT` · `SystemWeaver` · `CarWeaver` · `HIL` · `CAN` · `Diagnostics`
-
-### ⚙️ Automation & DevOps
-
-`Python` · `Robot Framework` · `Jenkins` · `GitLab` · `Gerrit` · `Bash` · `PowerShell` · `Linux` · `Windows` · `WSL`
-
-### 💻 Software Development
-
-`C++` · `CAPL` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Electron` · `Flutter` · `Dart` · `Firebase`
-
-### 🧠 AI & Tools
-
-`Local LLMs` · `Offline AI Inference` · `node-llama-cpp` · `GGUF Models` · `OpenAI API`
-
 ---
 
-## 🧩 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🖥️ TermiGPT
-
-**AI-powered terminal application with local/offline inference.**
-
-* Built with Electron, React, TypeScript and Node.js
-* Supports local LLMs such as Qwen, Phi and Gemma
-* Multi-terminal support: PowerShell, CMD, WSL and Git Bash
-* GPU detection with CPU fallback
-* Windows/Linux build and release automation
-* Privacy-first local execution
-
-🌐 **Website:**
-[https://www.termigpt.tech](https://www.termigpt.tech)
-
-</td>
-<td width="50%">
-
-### 📄 Personal Letter Generator
-
-**Cross-platform app that generates tailored cover letters using AI.**
-
-* Built with Flutter and Dart
-* Integrated OpenAI API
-* Backend hosted on Linux VM
-* Migrated backend to Firebase Firestore
-* Managed planning, budget, team coordination and delivery
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Focus
-
-Currently, I focus on automotive HIL engineering and test leadership, including:
-
-* VCU component testing
-* Automated validation
-* Nightly HIL and CI run monitoring
-* Signal analysis and debugging
-* Fault reporting
-* Test strategy and execution
-* Mentoring and onboarding new team members
-
----
-
-## 📊 GitHub Stats
+# 📊 SYSTEM METRICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladZarour&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladZarour&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiladZarour&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladZarour&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/MiladZarour/MiladZarour/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation
+# 🧪 FUTURE (COMING SOON)
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MiladZarour/MiladZarour/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🌍 Languages
-
-* Arabic: Native
-* English: Professional
-* Swedish: Fluent
+```txt
+✔ AI-powered DevOps assistant
+✔ Autonomous testing pipelines
+✔ Smart CI/CD debugger
+✔ Real-time system analytics API
+✔ Marketplace for developer tools (PixCrate)
+```
 
 ---
 
-## 📫 Connect With Me
+# 📫 CONTACT
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiladZarour)
-[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miladzarour@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin)]
 
 </div>
 
@@ -189,8 +169,8 @@ Currently, I focus on automotive HIL engineering and test leadership, including:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=140&section=footer" />
 
-### ⚡ Building, testing, automating, and improving systems one step at a time.
+### ⚡ Real Systems. Real Products. Real Impact.
 
 </div>
