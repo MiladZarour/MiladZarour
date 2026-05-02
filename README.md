@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=00f7ff&style=for-the-badge)
 
-[![API Status](https://img.shields.io/website?label=WaitTime%20API&style=for-the-badge&url=https://api.termigpt.tech/waittime/health)](https://api.termigpt.tech/waittime/)
+[![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/health)
 [![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
 
@@ -28,7 +28,7 @@
 Senior HIL Engineer | Test Lead | DevOps Engineer
 Automotive Systems + AI Products Builder
 Location: Gothenburg, Sweden 🇸🇪
-````
+```
 
 💡 I build **real-world systems, APIs, and AI tools** — not just demos.
 
@@ -48,12 +48,12 @@ Location: Gothenburg, Sweden 🇸🇪
 
 ### ⚡ Your Terminal. Your AI. No Cloud.
 
-* 🧠 Runs 100% **offline**
-* 🤖 AI generates **real shell commands**
-* 🔥 **Agent Mode** executes and fixes automatically
-* 🛠️ Supports PowerShell, CMD, WSL, and Git Bash
-* 🎯 GPU accelerated with CPU fallback
-* 🔐 Zero cloud, zero data leaks
+- 🧠 Runs 100% **offline**
+- 🤖 AI generates **real shell commands**
+- 🔥 **Agent Mode** executes and fixes automatically
+- 🛠️ Supports PowerShell, CMD, WSL, and Git Bash
+- 🎯 GPU accelerated with CPU fallback
+- 🔐 Zero cloud, zero data leaks
 
 ---
 
@@ -81,12 +81,12 @@ pip install flask requests
 
 ### ⚡ Turn Crowd Data Into Decisions
 
-* ⏱️ Wait-time prediction
-* 📊 Busy-time forecasting
-* 📍 Smart nearby alternatives
-* 📈 Confidence + reasoning
-* 🔐 Bearer API key authentication
-* 💳 Free, Starter, Pro, and Business tiers
+- ⏱️ Wait-time prediction
+- 📊 Busy-time forecasting
+- 📍 Smart nearby alternatives
+- 📈 Confidence + reasoning
+- 🔐 Bearer API key authentication
+- 💳 Free, Starter, Pro, and Business tiers
 
 ---
 
@@ -104,12 +104,12 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-| 🚀 Product      | 🔗 Link                                             | 💡 Description     |
-| --------------- | --------------------------------------------------- | ------------------ |
-| 🖥️ TermiGPT    | [Open](https://www.termigpt.tech/)                  | Local AI Terminal  |
-| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/)         | Predict wait times |
-| 📘 API Docs     | [Swagger](https://api.termigpt.tech/waittime/docs)  | Interactive API    |
-| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system        |
+| 🚀 Product | 🔗 Link | 💡 Description |
+| ---------- | ------- | -------------- |
+| 🖥️ TermiGPT | [Open](https://www.termigpt.tech/) | Local AI Terminal |
+| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/) | Predict wait times |
+| 📘 API Docs | [Swagger](https://api.termigpt.tech/waittime/docs) | Interactive API |
+| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system |
 
 </div>
 
@@ -166,9 +166,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 # 🌍 LANGUAGES
 
-* Arabic 🇸🇾 Native
-* English 🇬🇧 Professional
-* Swedish 🇸🇪 Fluent
+- Arabic 🇸🇾 Native
+- English 🇬🇧 Professional
+- Swedish 🇸🇪 Fluent
 
 ---
 
@@ -176,9 +176,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miladzarour@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiladZarour)
+[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladzarour@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladZarour)
 
 </div>
 
