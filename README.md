@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=00f7ff&style=for-the-badge)
 
-[![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/health)
+[![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/)
 [![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
 
