@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=20" />
 
 </div>
 
@@ -28,7 +28,7 @@
 Senior HIL Engineer | Test Lead | DevOps Engineer
 Automotive Systems + AI Products Builder
 Location: Gothenburg, Sweden 🇸🇪
-```
+````
 
 💡 I build **real-world systems, APIs, and AI tools** — not just demos.
 
@@ -69,12 +69,12 @@ Status:
 
 ### ⚡ Your Terminal. Your AI. No Cloud.
 
-- 🧠 Runs 100% **offline**
-- 🤖 AI generates **real shell commands**
-- 🔥 **Agent Mode** executes and fixes automatically
-- 🛠️ Supports PowerShell, CMD, WSL, and Git Bash
-- 🎯 GPU accelerated with CPU fallback
-- 🔐 Zero cloud, zero data leaks
+* 🧠 Runs 100% **offline**
+* 🤖 AI generates **real shell commands**
+* 🔥 **Agent Mode** executes and fixes automatically
+* 🛠️ Supports PowerShell, CMD, WSL, and Git Bash
+* 🎯 GPU accelerated with CPU fallback
+* 🔐 Zero cloud, zero data leaks
 
 ---
 
@@ -102,12 +102,12 @@ pip install flask requests
 
 ### ⚡ Turn Crowd Data Into Decisions
 
-- ⏱️ Wait-time prediction
-- 📊 Busy-time forecasting
-- 📍 Smart nearby alternatives
-- 📈 Confidence + reasoning
-- 🔐 Bearer API key authentication
-- 💳 Free, Starter, Pro, and Business tiers
+* ⏱️ Wait-time prediction
+* 📊 Busy-time forecasting
+* 📍 Smart nearby alternatives
+* 📈 Confidence + reasoning
+* 🔐 Bearer API key authentication
+* 💳 Free, Starter, Pro, and Business tiers
 
 ---
 
@@ -125,12 +125,12 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-| 🚀 Product | 🔗 Link | 💡 Description |
-| ---------- | ------- | -------------- |
-| 🖥️ TermiGPT | [Open](https://www.termigpt.tech/) | Local AI Terminal |
-| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/) | Predict wait times |
-| 📘 API Docs | [Swagger](https://api.termigpt.tech/waittime/docs) | Interactive API |
-| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system |
+| 🚀 Product      | 🔗 Link                                             | 💡 Description     |
+| --------------- | --------------------------------------------------- | ------------------ |
+| 🖥️ TermiGPT    | [Open](https://www.termigpt.tech/)                  | Local AI Terminal  |
+| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/)         | Predict wait times |
+| 📘 API Docs     | [Swagger](https://api.termigpt.tech/waittime/docs)  | Interactive API    |
+| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system        |
 
 </div>
 
@@ -151,23 +151,17 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladZarour&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiladZarour&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladZarour&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MiladZarour/MiladZarour/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiladZarour&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -187,9 +181,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 # 🌍 LANGUAGES
 
-- Arabic 🇸🇾 Native
-- English 🇬🇧 Professional
-- Swedish 🇸🇪 Fluent
+* Arabic 🇸🇾 Native
+* English 🇬🇧 Professional
+* Swedish 🇸🇪 Fluent
 
 ---
 
@@ -197,9 +191,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladzarour@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladZarour)
+[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miladzarour@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiladZarour)
 
 </div>
 
