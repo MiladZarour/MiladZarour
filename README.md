@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
 
 </div>
 
