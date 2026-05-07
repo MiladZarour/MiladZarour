@@ -208,12 +208,5 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 ### ⚡ Real Systems. Real Products. Real Impact.
 
 </div>
-```
-
-Best badge to use:
-
-```md
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
-```
 
 
