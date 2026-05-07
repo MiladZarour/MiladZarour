@@ -17,6 +17,7 @@
 [![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/)
 [![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
 
 </div>
 
@@ -193,6 +194,7 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 [![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miladzarour@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
 [![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiladZarour)
 
 </div>
@@ -206,3 +208,12 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 ### ⚡ Real Systems. Real Products. Real Impact.
 
 </div>
+```
+
+Best badge to use:
+
+```md
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
+```
+
+
