@@ -1,32 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1600&pause=500&color=7C3AED&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Automotive+CI%2FCD+%7C+Python+%7C+CANoe;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=MiladZarour&color=7c3aed&style=for-the-badge" />
+<div align="center">
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=20" />
 
-<a href="https://www.termigpt.tech/">
-<img src="https://img.shields.io/badge/TermiGPT-Live-7C3AED?style=for-the-badge" />
-</a>
+</div>
 
-<a href="https://api.termigpt.tech/waittime/">
-<img src="https://img.shields.io/badge/WaitTime%20API-Online-2563EB?style=for-the-badge" />
-</a>
+<div align="center">
 
-<a href="https://api.termigpt.tech/waittime/docs">
-<img src="https://img.shields.io/badge/API%20Docs-Swagger-1F2937?style=for-the-badge" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=00f7ff&style=for-the-badge)
 
-<a href="https://www.linkedin.com/in/milad-zarour-126767a1">
-<img src="https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://www.upwork.com/freelancers/miladzarour">
-<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge" />
-</a>
+[![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/)
+[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
 
 </div>
 
@@ -38,79 +29,23 @@
 Senior HIL Engineer | Test Lead | DevOps Engineer
 Automotive Systems + AI Products Builder
 Location: Gothenburg, Sweden 🇸🇪
-```
+````
 
-💡 I build **real-world systems, APIs, automation tools, and AI products** — not just demos.
-
-I work across **automotive testing**, **HIL environments**, **CANoe automation**, **CI/CD**, **Python tooling**, **local AI**, and **developer productivity products**.
+💡 I build **real-world systems, APIs, and AI tools** — not just demos.
 
 ---
 
-# 🧬 BUILDER DNA
+# 🧩 🚀 FEATURED PRODUCTS
 
-```txt
-I do not only write code.
-I build tools that solve real problems.
-
-Automotive Testing  →  HIL / CANoe / VCU / CI Validation
-Automation          →  Python / DevOps / APIs / Pipelines
-AI Products         →  Local LLMs / Agents / Offline AI
-Business Thinking   →  Real users, real products, real impact
-```
-
----
-
-# 🚀 PRODUCT ECOSYSTEM
+## 🖥️ TermiGPT — Flagship Product
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td>
 
-<h2>🖥️ TermiGPT</h2>
-
-<b>Offline AI terminal assistant</b>
-
-<br><br>
-
-Generate commands, fix errors, run agent workflows, and keep everything local.
-
-<br><br>
-
-<a href="https://www.termigpt.tech/">
-<img src="https://img.shields.io/badge/Open-TermiGPT-7C3AED?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h2>📊 WaitTime API</h2>
-
-<b>Crowd intelligence API</b>
-
-<br><br>
-
-Predict wait times, forecast busy windows, and find smarter nearby alternatives.
-
-<br><br>
-
-<a href="https://api.termigpt.tech/waittime/docs">
-<img src="https://img.shields.io/badge/Open-API%20Docs-2563EB?style=for-the-badge" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🖥️ TermiGPT — Flagship Product
-
-```txt
+```powershell
 PS C:\Users\Milad> Describe your task...
 
 > Set up a Python venv and install Flask
@@ -127,23 +62,24 @@ Status:
 ✅ Command completed
 ```
 
-## ⚡ Your Terminal. Your AI. No Cloud.
+</td>
+</tr>
+</table>
 
-TermiGPT is a **local-first AI terminal assistant** that runs offline after setup and helps developers generate commands, fix errors, and automate workflows directly inside the terminal.
+</div>
 
-### 🔥 Core Features
+### ⚡ Your Terminal. Your AI. No Cloud.
 
-* 🧠 Runs **100% offline** after model setup
-* 🤖 Generates **real shell commands**
-* 🔥 Agent Mode can execute, detect errors, and continue
+* 🧠 Runs 100% **offline**
+* 🤖 AI generates **real shell commands**
+* 🔥 **Agent Mode** executes and fixes automatically
 * 🛠️ Supports PowerShell, CMD, WSL, and Git Bash
 * 🎯 GPU accelerated with CPU fallback
-* 🔐 Zero cloud dependency
-* 🧩 Built with Electron, React, Vite, TypeScript, TailwindCSS, and local LLMs
+* 🔐 Zero cloud, zero data leaks
 
 ---
 
-## 🧪 Real Workflow Example
+### 🧪 Real Workflow
 
 ```bash
 python -m venv .venv
@@ -151,41 +87,32 @@ python -m venv .venv
 pip install flask requests
 ```
 
-💥 If something breaks → **TermiGPT can detect the error, suggest a fix, and continue the workflow.**
+💥 If something breaks → **auto-fix + continue execution**
 
 ---
 
-# 📊 WaitTime Intelligence API
+## 🚀 WaitTime Intelligence API
 
 <div align="center">
 
 <a href="https://api.termigpt.tech/waittime/">
-<img src="https://img.shields.io/badge/Open-WaitTime%20API-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://api.termigpt.tech/waittime/docs">
-<img src="https://img.shields.io/badge/Open-Swagger%20Docs-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20API-DOCS-00F7FF?style=for-the-badge&logo=swagger&logoColor=white"/>
 </a>
 
 </div>
 
-## ⚡ Turn Crowd Data Into Decisions
-
-WaitTime Intelligence API helps apps and businesses estimate how busy a place may be, predict wait times, and suggest smarter alternatives.
-
-### 🔥 Core Features
+### ⚡ Turn Crowd Data Into Decisions
 
 * ⏱️ Wait-time prediction
 * 📊 Busy-time forecasting
 * 📍 Smart nearby alternatives
-* 📈 Confidence score + reasoning
+* 📈 Confidence + reasoning
 * 🔐 Bearer API key authentication
 * 💳 Free, Starter, Pro, and Business tiers
-* 🧪 Swagger documentation for testing
 
 ---
 
-## 🔑 Example API Call
+### 🔑 Example API Call
 
 ```bash
 curl -X POST https://api.termigpt.tech/waittime/v1/register \
@@ -195,27 +122,18 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 ---
 
-# 🎮 LIVE DEMO CARDS
+# 🎮 ⚡ LIVE DEMO CARDS
 
-| 🚀 Product | 🔗 Link | 💡 Description |
-|---|---|---|
-| 🖥️ TermiGPT | [Open](https://www.termigpt.tech/) | Local AI Terminal |
-| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/) | Predict wait times |
-| 📘 API Docs | [Swagger](https://api.termigpt.tech/waittime/docs) | Interactive API |
-| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system health |
-| 🤝 Upwork | [Hire Me](https://www.upwork.com/freelancers/miladzarour) | Freelance automation, AI, and DevOps |
+<div align="center">
 
----
+| 🚀 Product      | 🔗 Link                                             | 💡 Description     |
+| --------------- | --------------------------------------------------- | ------------------ |
+| 🖥️ TermiGPT    | [Open](https://www.termigpt.tech/)                  | Local AI Terminal  |
+| 📊 WaitTime API | [Open](https://api.termigpt.tech/waittime/)         | Predict wait times |
+| 📘 API Docs     | [Swagger](https://api.termigpt.tech/waittime/docs)  | Interactive API    |
+| 🧪 Health Check | [Status](https://api.termigpt.tech/waittime/health) | Live system        |
 
-# 🔥 CURRENTLY BUILDING
-
-```txt
-🖥️ TermiGPT        → Local-first AI terminal
-📊 WaitTime API    → Prediction API for busy places
-🧪 HIL Automation  → Automotive testing pipelines
-🛠️ DevOps Tools    → CI/CD debugging and test automation
-🎮 PixCrate        → Marketplace idea for game developers
-```
+</div>
 
 ---
 
@@ -223,42 +141,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,electron,flutter,dart,linux,docker,git,github,gitlab,vscode,fastapi,html,css" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PowerShell-Scripting-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CANoe-Automation-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HIL-Testing-1F2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Local-LLMs-4F46E5?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,electron,flutter,dart,linux,docker,git,github,gitlab,vscode" />
 
 </div>
-
----
-
-# ⚙️ TOOLS & DOMAINS
-
-| Area | Tools / Skills |
-|---|---|
-| 🚗 Automotive | HIL, CANoe, VCU Testing, Diagnostics, CI Validation |
-| 🧪 Testing | Test Automation, Verification, Validation, Debugging |
-| 🐍 Backend | Python, FastAPI, APIs, Automation Scripts |
-| 🖥️ Desktop Apps | Electron, React, TypeScript, TailwindCSS |
-| 🤖 AI | Local LLMs, GGUF Models, AI Agents, Offline AI Tools |
-| 🚀 DevOps | GitHub Actions, Docker, CI/CD, Linux, Nginx |
-| 🌍 Product | SaaS APIs, Developer Tools, Marketplace Concepts |
-
----
-
-# 📌 IMPACT SNAPSHOT
-
-| Area | Impact |
-|---|---|
-| 🚗 Automotive | HIL testing, CANoe, VCU validation, CI workflows |
-| 🧠 AI | Local LLM tools, offline assistants, AI agents |
-| ⚙️ Automation | Python, DevOps, test automation, pipelines |
-| 🌍 Products | TermiGPT, WaitTime API, PixCrate concept |
-| 🤝 Freelance | Available on Upwork for automation and AI tools |
 
 ---
 
@@ -266,29 +151,8 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladZarour&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladZarour&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-# 🔥 GITHUB STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MiladZarour&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MiladZarour&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladZarour&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladZarour&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -298,17 +162,7 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiladZarour&theme=tokyo-night&hide_border=true&area=true&radius=12" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MiladZarour/MiladZarour/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiladZarour&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -328,35 +182,9 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 # 🌍 LANGUAGES
 
-| Language | Level |
-|---|---|
-| Arabic 🇸🇾 | Native |
-| English 🇬🇧 | Professional |
-| Swedish 🇸🇪 | Fluent |
-
----
-
-# 🤝 HIRE ME
-
-<div align="center">
-
-## Need automation, AI tools, APIs, or DevOps help?
-
-I build practical tools that save time, reduce manual work, and solve real engineering problems.
-
-<a href="https://www.upwork.com/freelancers/miladzarour">
-<img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/milad-zarour-126767a1">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://www.termigpt.tech/">
-<img src="https://img.shields.io/badge/Open-TermiGPT-7C3AED?style=for-the-badge" />
-</a>
-
-</div>
+* Arabic 🇸🇾 Native
+* English 🇬🇧 Professional
+* Swedish 🇸🇪 Fluent
 
 ---
 
@@ -364,21 +192,10 @@ I build practical tools that save time, reduce manual work, and solve real engin
 
 <div align="center">
 
-<a href="mailto:miladzarour@hotmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-1F2937?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/milad-zarour-126767a1">
-<img src="https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://www.upwork.com/freelancers/miladzarour">
-<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/MiladZarour">
-<img src="https://img.shields.io/badge/GitHub-MiladZarour-1F2937?style=for-the-badge" />
-</a>
+[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miladzarour@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiladZarour)
 
 </div>
 
@@ -386,10 +203,9 @@ I build practical tools that save time, reduce manual work, and solve real engin
 
 <div align="center">
 
-## ⚡ Real Systems. Real Products. Real Impact.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=140&section=footer" />
 
-```txt
-Built with engineering, automation, AI, and product thinking.
-```
+### ⚡ Real Systems. Real Products. Real Impact.
 
 </div>
+
