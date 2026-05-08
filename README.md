@@ -66,31 +66,45 @@ Business Thinking   →  Real users, real products, real impact
 <tr>
 <td width="50%" align="center">
 
-## 🖥️ TermiGPT
+<h2>🖥️ TermiGPT</h2>
 
 <img src="https://img.shields.io/badge/Local%20AI-Terminal-00F7FF?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
 
-**Offline AI terminal assistant**  
+<br><br>
+
+<b>Offline AI terminal assistant</b>
+
+<br><br>
+
 Generate commands, fix errors, run agent workflows, and keep everything local.
 
-<br>
+<br><br>
 
-[![Open TermiGPT](https://img.shields.io/badge/Open-TermiGPT.tech-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
+<a href="https://www.termigpt.tech/">
+<img src="https://img.shields.io/badge/Open-TermiGPT.tech-00F7FF?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" align="center">
 
-## 📊 WaitTime API
+<h2>📊 WaitTime API</h2>
 
 <img src="https://img.shields.io/badge/Prediction-API-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-**Crowd intelligence API**  
+<br><br>
+
+<b>Crowd intelligence API</b>
+
+<br><br>
+
 Predict wait times, forecast busy windows, and find smarter nearby alternatives.
 
-<br>
+<br><br>
 
-[![Open API Docs](https://img.shields.io/badge/Open-Swagger%20Docs-00F7FF?style=for-the-badge&logo=swagger&logoColor=white)](https://api.termigpt.tech/waittime/docs)
+<a href="https://api.termigpt.tech/waittime/docs">
+<img src="https://img.shields.io/badge/Open-Swagger%20Docs-00F7FF?style=for-the-badge&logo=swagger&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -106,18 +120,19 @@ Predict wait times, forecast busy windows, and find smarter nearby alternatives.
 
 </div>
 
-# 🖥️ TERMiGPT — FLAGSHIP PRODUCT
+# 🖥️ TermiGPT — Flagship Product
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<td align="left">
 
-```powershell
-PS C:\Users\Milad> Describe your task...
+<pre>
+<code>
+PS C:\Users\Milad&gt; Describe your task...
 
-> Set up a Python venv and install Flask
+&gt; Set up a Python venv and install Flask
 
 TermiGPT Agent Plan:
 1. python -m venv .venv
@@ -129,7 +144,8 @@ Status:
 ✅ Virtual environment created
 ✅ Packages installed
 ✅ Command completed
-```
+</code>
+</pre>
 
 </td>
 </tr>
@@ -165,7 +181,7 @@ pip install flask requests
 
 ---
 
-# 📊 WAITTIME INTELLIGENCE API
+# 📊 WaitTime Intelligence API
 
 <div align="center">
 
@@ -239,7 +255,14 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,electron,flutter,dart,linux,docker,git,github,gitlab,vscode,fastapi,html,css,powershell" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,electron,flutter,dart,linux,docker,git,github,gitlab,vscode,fastapi,html,css" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/CANoe-00F7FF?style=for-the-badge&logo=vectorlogozone&logoColor=white" />
+<img src="https://img.shields.io/badge/HIL%20Testing-001B2E?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Local%20LLMs-00F7FF?style=for-the-badge&logo=ollama&logoColor=white" />
 
 </div>
 
@@ -333,8 +356,6 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 <img src="https://raw.githubusercontent.com/MiladZarour/MiladZarour/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-> To make the snake work, create the GitHub Action file shown below in `.github/workflows/snake.yml`.
 
 ---
 
