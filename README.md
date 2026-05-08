@@ -12,13 +12,29 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=7c3aed&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=MiladZarour&color=7c3aed&style=for-the-badge" />
 
-[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-7C3AED?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827)](https://www.termigpt.tech/)
-[![WaitTime API](https://img.shields.io/badge/WaitTime%20API-ONLINE-2563EB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111827)](https://api.termigpt.tech/waittime/)
-[![API Docs](https://img.shields.io/badge/API%20Docs-Swagger-1F2937?style=for-the-badge&logo=swagger&logoColor=white&labelColor=111827)](https://api.termigpt.tech/waittime/docs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827)](https://www.upwork.com/freelancers/miladzarour)
+<br><br>
+
+<a href="https://www.termigpt.tech/">
+<img src="https://img.shields.io/badge/TermiGPT-Live-7C3AED?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://api.termigpt.tech/waittime/">
+<img src="https://img.shields.io/badge/WaitTime%20API-Online-2563EB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://api.termigpt.tech/waittime/docs">
+<img src="https://img.shields.io/badge/API%20Docs-Swagger-1F2937?style=for-the-badge&logo=swagger&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.linkedin.com/in/milad-zarour-126767a1">
+<img src="https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/miladzarour">
+<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827" />
+</a>
 
 </div>
 
@@ -26,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%" />
 
 </div>
 
@@ -68,7 +84,7 @@ Business Thinking   →  Real users, real products, real impact
 
 <h2>🖥️ TermiGPT</h2>
 
-<img src="https://img.shields.io/badge/Local%20AI%20Terminal-1F2937?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Local%20AI-Terminal-1F2937?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=111827" />
 
 <br><br>
 
@@ -81,7 +97,7 @@ Generate commands, fix errors, run agent workflows, and keep everything local.
 <br><br>
 
 <a href="https://www.termigpt.tech/">
-<img src="https://img.shields.io/badge/Open%20TermiGPT-7C3AED?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Open-TermiGPT-7C3AED?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827" />
 </a>
 
 </td>
@@ -90,7 +106,7 @@ Generate commands, fix errors, run agent workflows, and keep everything local.
 
 <h2>📊 WaitTime API</h2>
 
-<img src="https://img.shields.io/badge/Prediction%20API-1F2937?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Prediction-API-1F2937?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111827" />
 
 <br><br>
 
@@ -103,7 +119,7 @@ Predict wait times, forecast busy windows, and find smarter nearby alternatives.
 <br><br>
 
 <a href="https://api.termigpt.tech/waittime/docs">
-<img src="https://img.shields.io/badge/Open%20API%20Docs-2563EB?style=for-the-badge&logo=swagger&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Open-API%20Docs-2563EB?style=for-the-badge&logo=swagger&logoColor=white&labelColor=111827" />
 </a>
 
 </td>
@@ -116,23 +132,16 @@ Predict wait times, forecast busy windows, and find smarter nearby alternatives.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%" />
 
 </div>
 
 # 🖥️ TermiGPT — Flagship Product
 
-<div align="center">
+```txt
+PS C:\Users\Milad> Describe your task...
 
-<table>
-<tr>
-<td align="left">
-
-<pre>
-<code>
-PS C:\Users\Milad&gt; Describe your task...
-
-&gt; Set up a Python venv and install Flask
+> Set up a Python venv and install Flask
 
 TermiGPT Agent Plan:
 1. python -m venv .venv
@@ -144,14 +153,7 @@ Status:
 ✅ Virtual environment created
 ✅ Packages installed
 ✅ Command completed
-</code>
-</pre>
-
-</td>
-</tr>
-</table>
-
-</div>
+```
 
 ## ⚡ Your Terminal. Your AI. No Cloud.
 
@@ -186,11 +188,11 @@ pip install flask requests
 <div align="center">
 
 <a href="https://api.termigpt.tech/waittime/">
-<img src="https://img.shields.io/badge/Open%20WaitTime%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Open-WaitTime%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111827" />
 </a>
 
 <a href="https://api.termigpt.tech/waittime/docs">
-<img src="https://img.shields.io/badge/Swagger%20Docs-7C3AED?style=for-the-badge&logo=swagger&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Open-Swagger%20Docs-7C3AED?style=for-the-badge&logo=swagger&logoColor=white&labelColor=111827" />
 </a>
 
 </div>
@@ -239,7 +241,7 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%" />
 
 </div>
 
@@ -263,10 +265,10 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white&labelColor=111827" />
-<img src="https://img.shields.io/badge/CANoe-7C3AED?style=for-the-badge&logo=vectorlogozone&logoColor=white&labelColor=111827" />
-<img src="https://img.shields.io/badge/HIL%20Testing-1F2937?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=111827" />
-<img src="https://img.shields.io/badge/Local%20LLMs-4F46E5?style=for-the-badge&logo=ollama&logoColor=white&labelColor=111827" />
+<img src="https://img.shields.io/badge/PowerShell-Scripting-2563EB?style=for-the-badge&logo=powershell&logoColor=white&labelColor=111827" />
+<img src="https://img.shields.io/badge/CANoe-Automation-7C3AED?style=for-the-badge&logo=vectorlogozone&logoColor=white&labelColor=111827" />
+<img src="https://img.shields.io/badge/HIL-Testing-1F2937?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=111827" />
+<img src="https://img.shields.io/badge/Local-LLMs-4F46E5?style=for-the-badge&logo=ollama&logoColor=white&labelColor=111827" />
 
 </div>
 
@@ -308,7 +310,7 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%" />
 
 </div>
 
@@ -365,7 +367,7 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1F2937,100:7C3AED&height=3&section=header" width="100%" />
 
 </div>
 
@@ -403,9 +405,17 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 I build practical tools that save time, reduce manual work, and solve real engineering problems.
 
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827)](https://www.upwork.com/freelancers/miladzarour)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![Open TermiGPT](https://img.shields.io/badge/Open-TermiGPT.tech-7C3AED?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827)](https://www.termigpt.tech/)
+<a href="https://www.upwork.com/freelancers/miladzarour">
+<img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.linkedin.com/in/milad-zarour-126767a1">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.termigpt.tech/">
+<img src="https://img.shields.io/badge/Open-TermiGPT-7C3AED?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827" />
+</a>
 
 </div>
 
@@ -415,10 +425,21 @@ I build practical tools that save time, reduce manual work, and solve real engin
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:miladzarour@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827)](https://www.upwork.com/freelancers/miladzarour)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-1F2937?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/MiladZarour)
+<a href="mailto:miladzarour@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-1F2937?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.linkedin.com/in/milad-zarour-126767a1">
+<img src="https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/miladzarour">
+<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://github.com/MiladZarour">
+<img src="https://img.shields.io/badge/GitHub-MiladZarour-1F2937?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+</a>
 
 </div>
 
