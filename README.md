@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Automotive+CI%2FCD+%7C+Python+%7C+CANoe;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=400&color=7C3AED&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Milad+Zarour+%F0%9F%91%8B;Senior+HIL+Engineer+%7C+Test+Lead;DevOps+%7C+Automation+%7C+AI;Building+Real+Products+%F0%9F%9A%80;TermiGPT+%2B+WaitTime+API+Creator" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E1B4B,100:7C3AED&height=140&section=header&text=Milad%20Zarour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=20" />
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=00f7ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MiladZarour&color=7c3aed&style=for-the-badge)
 
-[![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/)
-[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![API Status](https://img.shields.io/badge/WaitTime%20API-ONLINE-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.termigpt.tech/waittime/)
+[![TermiGPT](https://img.shields.io/badge/TermiGPT-Live-7C3AED?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
 
 </div>
@@ -115,7 +115,7 @@ pip install flask requests
 <div align="center">
 
 <a href="https://api.termigpt.tech/waittime/">
-<img src="https://img.shields.io/badge/OPEN%20API-DOCS-00F7FF?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20API-DOCS-7C3AED?style=for-the-badge&logo=swagger&logoColor=white"/>
 </a>
 
 </div>
@@ -179,10 +179,10 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 
 <br><br>
 
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-00F7FF?style=for-the-badge)
-![CANoe](https://img.shields.io/badge/CANoe-Automation-00F7FF?style=for-the-badge)
-![HIL](https://img.shields.io/badge/HIL-Testing-00F7FF?style=for-the-badge)
-![Local AI](https://img.shields.io/badge/Local%20AI-LLMs-00F7FF?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2563EB?style=for-the-badge)
+![CANoe](https://img.shields.io/badge/CANoe-Automation-7C3AED?style=for-the-badge)
+![HIL](https://img.shields.io/badge/HIL-Testing-1F2937?style=for-the-badge)
+![Local AI](https://img.shields.io/badge/Local%20AI-LLMs-4F46E5?style=for-the-badge)
 
 </div>
 
@@ -302,8 +302,8 @@ curl -X POST https://api.termigpt.tech/waittime/v1/register \
 I build practical tools that save time, reduce manual work, and solve real engineering problems.
 
 [![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
-[![Open TermiGPT](https://img.shields.io/badge/Open-TermiGPT-00F7FF?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![Open TermiGPT](https://img.shields.io/badge/Open-TermiGPT-7C3AED?style=for-the-badge&logo=windows&logoColor=white)](https://www.termigpt.tech/)
 
 </div>
 
@@ -313,10 +313,10 @@ I build practical tools that save time, reduce manual work, and solve real engin
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladzarour@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
+[![Email](https://img.shields.io/badge/Email-miladzarour%40hotmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladzarour@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Zarour-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-zarour-126767a1)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/miladzarour)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladZarour)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladZarour-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladZarour)
 
 </div>
 
@@ -324,7 +324,7 @@ I build practical tools that save time, reduce manual work, and solve real engin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E1B4B,100:7C3AED&height=140&section=footer" />
 
 ### ⚡ Real Systems. Real Products. Real Impact.
 
