@@ -6,6 +6,7 @@
 
 <p><strong>Gothenburg, Sweden 🇸🇪 · Automotive Verification · Full-Stack Engineering · Cloud & DevOps · AI</strong></p>
 
+<a href="https://www.miladzarour.com/"><img src="https://img.shields.io/badge/MiladZarour.com-Personal%20Website-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Milad Zarour personal website" /></a>
 <a href="https://www.swifant.se/"><img src="https://img.shields.io/badge/Swifant.se-Explore%20Website-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Swifant" /></a>
 <a href="https://www.termigpt.tech/"><img src="https://img.shields.io/badge/TermiGPT-Explore%20Project-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="TermiGPT" /></a>
 <a href="https://api.termigpt.tech/waittime/"><img src="https://img.shields.io/badge/WaitTime-API-0E7490?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="WaitTime API" /></a>
@@ -34,6 +35,8 @@ DEVOPS         GitHub Actions · CI/CD · Ubuntu · Nginx · SSH · deployment a
 3D / AI        Three.js · interactive product tools · local LLMs · AI-assisted workflows
 DELIVERY       Trello · backlog planning · release management · documentation
 ```
+
+🌐 **Personal website:** [www.miladzarour.com](https://www.miladzarour.com/)
 
 ## 🚀 Featured work
 
@@ -257,6 +260,7 @@ I enjoy projects involving **software engineering, automation, backend APIs, clo
 
 <div align="center">
 
+<a href="https://www.miladzarour.com/"><img src="https://img.shields.io/badge/MiladZarour.com-Personal%20Website-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Milad Zarour personal website" /></a>
 <a href="https://www.swifant.se/"><img src="https://img.shields.io/badge/See%20my%20work-Swifant.se-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio: Swifant" /></a>
 <a href="https://www.upwork.com/freelancers/miladzarour"><img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork" /></a>
 <a href="https://www.linkedin.com/in/milad-zarour-126767a1"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
