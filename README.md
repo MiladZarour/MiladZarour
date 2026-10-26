@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:0F172A&height=190&section=header&text=Milad%20Zarour&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=17" alt="Milad Zarour — Engineer, Builder, Problem Solver" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=52&lines=Senior+HIL+Engineer+%7C+Test+Lead;Full-Stack+Developer+%7C+DevOps;Automotive+Automation+%7C+AI+Products;Building+Swifant.se+%2B+TermiGPT+%2B+APIs" alt="Senior HIL Engineer, Full-Stack Developer, DevOps and AI Product Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=52&lines=Senior+HIL+Engineer+%7C+Test+Lead;Full-Stack+Developer+%7C+DevOps;Automotive+Automation+%7C+AI+Products;Building+TermiGPT+%2B+APIs+%2B+AI+Tools" alt="Senior HIL Engineer, Full-Stack Developer, DevOps and AI Product Builder" />
 
 <p><strong>Gothenburg, Sweden 🇸🇪 · Automotive Verification · Full-Stack Engineering · Cloud & DevOps · AI</strong></p>
 
 <a href="https://www.miladzarour.com/"><img src="https://img.shields.io/badge/MiladZarour.com-Personal%20Website-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Milad Zarour personal website" /></a>
-<a href="https://www.swifant.se/"><img src="https://img.shields.io/badge/Swifant.se-Explore%20Website-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Swifant" /></a>
 <a href="https://www.termigpt.tech/"><img src="https://img.shields.io/badge/TermiGPT-Explore%20Project-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="TermiGPT" /></a>
 <a href="https://api.termigpt.tech/waittime/"><img src="https://img.shields.io/badge/WaitTime-API-0E7490?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="WaitTime API" /></a>
 
@@ -42,19 +41,17 @@ DELIVERY       Trello · backlog planning · release management · documentation
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<h3>💍 <a href="https://www.swifant.se/">Swifant.se</a></h3>
+<td width="50%" valign="top">
 <p><strong>Jewellery platform · Full-stack & DevOps</strong></p>
 <p>React, Vite, Three.js and Python, hosted on Hetzner Cloud.</p>
-<p><a href="https://www.swifant.se/">Visit website →</a></p>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>🖥️ <a href="https://www.termigpt.tech/">TermiGPT</a></h3>
 <p><strong>Local-first AI terminal assistant</strong></p>
 <p>Natural-language command assistance and developer automation.</p>
 <p><a href="https://www.termigpt.tech/">Explore TermiGPT →</a></p>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>⏱️ <a href="https://api.termigpt.tech/waittime/">WaitTime API</a></h3>
 <p><strong>Crowd and wait-time intelligence</strong></p>
 <p>API product for estimating busy periods and wait times.</p>
@@ -62,57 +59,6 @@ DELIVERY       Trello · backlog planning · release management · documentation
 </td>
 </tr>
 </table>
-
----
-
-## 💎 Swifant.se — from concept to production
-
-<div align="center">
-
-<a href="https://www.swifant.se/"><img src="https://img.shields.io/badge/OPEN%20SWIFANT.SE-VIEW%20THE%20WEBSITE-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Swifant Website" /></a>
-<a href="https://www.swifant.se/sortiment/orion-15h-25b-v"><img src="https://img.shields.io/badge/TRY%20LIVE%203D-RING%20PREVIEW-0F766E?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="3D Ring Preview" /></a>
-
-</div>
-
-**Role:** Full-Stack & DevOps Engineer · **Project:** Swedish jewellery website · **Location:** Gothenburg, Sweden
-
-Developing and delivering **Swifant.se**, a bilingual jewellery experience that combines product discovery, interactive 3D, customer enquiries, booking workflows, and real production infrastructure.
-
-### What I built and delivered
-
-- **Frontend & UX:** A responsive Swedish/English site using **React, Vite, and JavaScript**, with a structured catalogue containing **374 jewellery product variants**.
-- **Interactive 3D:** A **Three.js** custom ring concept studio with metal and gemstone choices, camera controls, and lighting; plus a parametric live-3D preview pilot for **65 ring variants**.
-- **Customer workflows:** A **Python API** for consultation bookings, design enquiries, and try-at-home requests, integrated with calendar and email services.
-- **Administration:** An authenticated dashboard for catalogue overrides, customer enquiries, and data exports, supported by persistent storage.
-- **Cloud & hosting:** A production environment on **Hetzner Cloud / Ubuntu**, with **Nginx, HTTPS, domain/DNS configuration, and SSH**.
-- **CI/CD:** **GitHub Actions** workflows for automated checks and deployment, plus **PowerShell** release scripts with staging, validation, backups, and rollback procedures.
-- **Quality:** Catalogue tests, build/lint checks, image optimisation, responsive galleries, source-asset tracking, and technical documentation.
-- **Delivery management:** A structured **Trello** board—**Ideas → To-do → Progress → Edit → Done**—for backlog organisation, prioritisation, and completed work.
-- **AI-assisted engineering:** Used **Codex Cloud** as part of the implementation and review workflow, while maintaining version control, tests, and release checks.
-
-**Architecture at a glance**
-
-```text
-                          GitHub (source control)
-                                    │
-                           GitHub Actions CI/CD
-                                    │
-                                    ▼
-                      Hetzner Cloud · Ubuntu · Nginx
-                                    │
-                      ┌─────────────┴─────────────┐
-                      ▼                           ▼
-             React + Vite frontend         Python backend API
-                      │                           │
-               Three.js 3D tools         Booking / enquiry flows
-                 Product catalogue       Calendar / email / admin
-```
-
-**Technology:** `React` · `Vite` · `JavaScript` · `Three.js` · `Python` · `SQLite` · `GitHub Actions` · `Ubuntu` · `Hetzner Cloud` · `Nginx` · `PowerShell` · `Trello`
-
-> **Scope note:** Swifant currently supports catalogue browsing, bookings, and enquiries. Online checkout and payment processing are a **future phase**, not a live feature. Its 3D previews are visual concept tools, not manufacturing CAD.
-
-🌐 **Website:** [www.swifant.se](https://www.swifant.se/) · 🔗 **3D example:** [Explore an interactive ring](https://www.swifant.se/sortiment/orion-15h-25b-v)
 
 ---
 
@@ -210,7 +156,6 @@ My engineering background combines **vehicle-system verification** and **automat
 
 ## 🔭 What I'm working on
 
-- 💍 **Swifant.se:** Improving 3D jewellery experiences, catalogue quality, and customer workflows
 - 🖥️ **TermiGPT:** Local AI tooling and developer productivity
 - ⏱️ **WaitTime API:** API capabilities and product iteration
 - 🚗 **Automotive automation:** More efficient and reproducible verification workflows
@@ -261,7 +206,6 @@ I enjoy projects involving **software engineering, automation, backend APIs, clo
 <div align="center">
 
 <a href="https://www.miladzarour.com/"><img src="https://img.shields.io/badge/MiladZarour.com-Personal%20Website-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Milad Zarour personal website" /></a>
-<a href="https://www.swifant.se/"><img src="https://img.shields.io/badge/See%20my%20work-Swifant.se-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio: Swifant" /></a>
 <a href="https://www.upwork.com/freelancers/miladzarour"><img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork" /></a>
 <a href="https://www.linkedin.com/in/milad-zarour-126767a1"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:miladzarour@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
